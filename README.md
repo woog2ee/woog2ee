@@ -1,7 +1,5 @@
 ### I'm in
 - Computer Science & Engineering Bachelor's Course @Chung-Ang Univ.
-- [Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl) for Research Intern(2021.03.-2022.03.) @Chung-Ang Univ.
-- CONVEI Lab for Research Intern(2022.06.~) @Yonsei Univ.
 
 ### I'm into
 - Nature Language Processing
