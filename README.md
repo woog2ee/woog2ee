@@ -1,5 +1,5 @@
 ### I'm in
-- Computer Science & Engineering Bachelor's Course @Chung-Ang Univ.
+- Computer Science & Engineering Master's Course @Chung-Ang Univ.
 
 ### I'm into
 - Nature Language Processing
